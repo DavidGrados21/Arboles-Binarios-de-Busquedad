@@ -1,0 +1,20 @@
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\bin\Debug\Arboles Binarios.exe.config
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\bin\Debug\Arboles Binarios.exe
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\bin\Debug\Arboles Binarios.pdb
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles Binarios.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.PantallaPrincipal.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.Properties.Resources.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles Binarios.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles Binarios.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles Binarios.exe
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles Binarios.pdb
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_10.A10.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_09.A9.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_08.A8.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_07.A7.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_06.A6.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_05.A5.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_04.A4.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_03.A3.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_02.A2.resources
+C:\Users\David\source\repos\Arboles Binarios\Arboles Binarios\obj\Debug\Arboles_Binarios.EJERCICIO_01.A1.resources
